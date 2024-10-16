@@ -5,6 +5,7 @@ Web application for accounting work on a yacht
 ## Installation
 #### NGINX Setup
 ![NIGNX](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
+
 Install nginx
 
 ```
