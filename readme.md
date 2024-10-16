@@ -38,5 +38,7 @@ git submodule init
 git submodule update
 ```
 submodules list
+
 [yachtClient](https://github.com/sopel1996/yachtClient)   ![REACT](https://shields.io/badge/react-black?logo=react&style=for-the-badge&height=30)
+
 [yachtServer](https://github.com/sopel1996/yachtServer) ![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&height=30)
