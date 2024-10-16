@@ -1,0 +1,6 @@
+[submodule "yachtClient"]
+	path = yachtClient
+	url = https://github.com/sopel1996/yachtClient.git
+[submodule "yachtServer"]
+	path = yachtServer
+	url = https://github.com/sopel1996/yachtServer.git
