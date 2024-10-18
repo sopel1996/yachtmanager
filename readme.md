@@ -36,7 +36,7 @@ sudo service nginx restart
 initial and update submodules
 ```
 git submodule init
-git submodule update
+git submodule update --remote
 ```
 submodules list
 
