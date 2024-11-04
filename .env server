@@ -1,0 +1,7 @@
+PORT = ____
+DB_NAME = _______
+DB_USER = _______
+DB_PASSWORD = _______
+DB_HOST = _______
+DB_PORT = _______
+SECRET_KEY = _______

@@ -2,7 +2,14 @@ server{
 	listen 80;
 
 	root /__/__/;	// правильный путь до клиентской части приложения
-	server_name 000.000.000.000;			// IP адрес сервера
+	server_name ;			// URL
+
+	index index.html index.htm; # начальная страница
+
+	location / {
+		try_files $uri $uri/ /index.html;
+	}
+
 
 	location /api/ {
 		proxy_pass http://localhost:5000;
